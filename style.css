@@ -1,0 +1,15 @@
+.collapse{
+    font-family: 'Franklin Gothic Medium'
+}
+
+.carousel > .carousel-inner > .carousel-item > img
+{
+    width:800px;
+    height: 450px;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
